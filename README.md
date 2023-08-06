@@ -1,3 +1,3 @@
 # quiez.github
 
-live link : https://github.com/mayurkapate11/quiez.github/new/main?readme=1
+live link : http://127.0.0.1:5500/mayur%20resume/mayur%20resume/pgml.html/quiez.html
